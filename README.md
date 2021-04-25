@@ -8,6 +8,8 @@ The two libraries used are
 * mysql
 * pymysql
 
+*This was a school project, therefore some code was provided to me as a starting point. <br>All credit of that code goes to Professor Jose Ortiz at San Francisco State University.*
+
 From the user menu, these are your options:
 
 #### Creating an account:
